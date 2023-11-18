@@ -1,3 +1,6 @@
 ---
-layout: home
+layout: default
 ---
+{% include navheader.html %}
+
+{% include portfolio_grid.html %}
