@@ -23,3 +23,5 @@ it: &DEFAULT_IT
       section: team
     - title: "Theme Source"
       url: https://github.com/raviriley/agency-jekyll-theme/
+
+it-IT: &DEFAULT_IT

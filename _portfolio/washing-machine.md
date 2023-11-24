@@ -1,13 +1,13 @@
 ---
-title: Lavanderia
-subtitle: Come lavare i propri vestiti e usare al meglio la lavanderia
-image: assets/img/portfolio/washingMachine-full.jpg
+title: Lavatrice
+subtitle: Come funziona la Indesit IWC81051
+image: assets/img/services/washing-machine.jpg
 alt: Whasing machine
 
 caption:
-  title: Lavanderia
+  title: Lavatrice
   subtitle: Per vestiti puliti e profumati
-  thumbnail: assets/img/portfolio/washingMachine-thumbnail.jpg
+  thumbnail: assets/img/services/washing-machine.jpg
 ---
 
 La lavatrice presenta molti programmi ma estremamente lunghi. Per l'utilizzo quotidiano si raccomanda il programma breve.
