@@ -20,4 +20,4 @@ La lavatrice presenta molti programmi ma estremamente lunghi. Per l'utilizzo quo
 - Inserire ammorbidente nel vano 3
 - Avviare il lavaggio
 
-Trovate il manuale completo [qui](/assets/pdf/washing-machine.pdf)
+Trovate il manuale completo [qui](assets/pdf/washing-machine.pdf)

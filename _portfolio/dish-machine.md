@@ -29,4 +29,4 @@ Una volta che il programma è terminato:
 
 - Aprire la lavastoviglie premendo il tasto "open" fino a che non scatta il portellone
 
-Trovate il manuale completo [qui](/assets/pdf/dishwasher.pdf)
+Trovate il manuale completo [qui](assets/pdf/dishwasher.pdf)

@@ -25,4 +25,4 @@ Una volta terminata la cottura si può spegnere tenendo premuta per qualche seco
 Il forno spento mostra l'orario per qualche secondo, prima di spegnere il display.
 Se sotto all'orario sono mostrate delle barre, questo indica che il forno è spento ma ancora caldo, perciò prestate attenzione.
 
-Trovate il manuale completo [qui](/assets/pdf/oven.pdf)
+Trovate il manuale completo [qui](assets/pdf/oven.pdf)

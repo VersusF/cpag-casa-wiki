@@ -24,4 +24,4 @@ Per utilizzarlo:
 
 Il pulsante +30s serve per estendere la cottura con le impostazioni precedenti
 
-Trovate il manuale completo [qui](/assets/pdf/microwave.pdf)
+Trovate il manuale completo [qui](assets/pdf/microwave.pdf)
